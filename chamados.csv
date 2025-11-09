@@ -1,0 +1,5 @@
+id_chamado,usuario_solicitante,area,problema_descricao,status
+1001,ana.silva,Vendas,Impressora não funciona,Fechado
+1002,bruno.costa,RH,Sem acesso à pasta,Aberto
+1003,carla.dias,Vendas,PC lento,Fechado
+1004,diego.lima,TI,Instalar software,Fechado
