@@ -65,7 +65,7 @@ except Exception as e:
     sys.exit()
 
 try:
-    df_final['processado_por'] = 'Script_do_Joao'
+    df_final['processado_por'] = 'Script_JoaoOtavio'
     print("Regra 3: Coluna 'processado_por' adicionada.")
 except Exception as e:
     print(f"Erro ao adicionar nova coluna: {e}")
